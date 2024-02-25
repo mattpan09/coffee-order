@@ -1,0 +1,19 @@
+0,2.94,Dark roast, Milk, Mocha, Whip
+1,2.94,Dark roast, Milk, Mocha, Whip
+2,2.94,Dark roast, Milk, Mocha, Whip
+3,2.94,Dark roast, Milk, Mocha, Whip
+4,2.94,Dark roast, Milk, Mocha, Whip
+5,2.94,Dark roast, Milk, Mocha, Whip
+6,2.94,Dark roast, Milk, Mocha, Whip
+7,2.94,Dark roast, Milk, Mocha, Whip
+8,2.94,Dark roast, Milk, Mocha, Whip
+9,2.94,Dark roast, Milk, Mocha, Whip
+10,2.6,House blend, Milk, Mocha, Whip
+11,2.6,House blend, Milk, Mocha, Whip
+12,2.23,Decaf, Milk, Mocha, Whip
+13,2.23,Decaf, Milk, Mocha, Whip
+14,2.23,Decaf, Milk, Mocha, Whip
+15,2.29,Espresso, Milk, Mocha, Whip
+16,2.29,Espresso, Milk, Mocha, Whip
+17,2.26,Espresso, Milk, Soy, Whip
+18,2.26,Espresso, Milk, Soy, Whip
