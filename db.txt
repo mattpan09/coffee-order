@@ -17,3 +17,26 @@
 16,2.29,Espresso, Milk, Mocha, Whip
 17,2.26,Espresso, Milk, Soy, Whip
 18,2.26,Espresso, Milk, Soy, Whip
+19,2.2,House blend, Mocha, Whip
+20,2.26,Espresso, Milk, Soy, Whip
+21,2.62,House blend, Milk, Mocha, Soy
+22,2.17,House blend, Soy, Whip
+23,1.34,Espresso
+24,1.86,Espresso, Soy, Whip
+25,1.59,Espresso, Whip
+26,1.34,Espresso
+27,1.86,Espresso, Soy, Whip
+28,1.34,Espresso
+29,1.59,Espresso, Whip
+30,1.34,Espresso
+31,1.86,Espresso, Soy, Whip
+32,1.34,Espresso
+33,2.17,House blend, Soy, Whip
+34,2.2,House blend, Mocha, Whip
+35,2.16,Espresso, Mocha, Soy, Whip
+36,2.54,Dark roast, Mocha, Whip
+37,2.2,House blend, Mocha, Whip
+38,3.21,Dark roast, Milk, Mocha, Soy, Whip
+39,2.47,House blend, Mocha, Soy, Whip
+40,2.23,Decaf, Milk, Mocha, Whip
+41,1.8,Decaf, Soy, Whip
