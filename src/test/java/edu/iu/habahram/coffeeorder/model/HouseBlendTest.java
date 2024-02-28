@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class HouseBlendTest {
-
+    //Floating points are handled in the front-end display
     @Test
     void houseBlendZeroCondiments() {
         HouseBlend houseBlend = new HouseBlend();

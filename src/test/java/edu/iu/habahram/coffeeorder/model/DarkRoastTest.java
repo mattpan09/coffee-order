@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class DarkRoastTest {
-
+    //Floating points are handled in the front-end display
     @Test
     void darkRoastZeroCondiments() {
         DarkRoast darkRoast = new DarkRoast();

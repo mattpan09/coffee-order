@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class EspressoTest {
-
+    //Floating points are handled in the front-end display
     @Test
     void espressoZeroCondiments() {
         Espresso espresso = new Espresso();

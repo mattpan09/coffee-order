@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class DecafTest {
-
+    //Floating points are handled in the front-end display
     @Test
     void decafZeroCondiments() {
         Decaf decaf = new Decaf();
